@@ -22,7 +22,7 @@ The program is able to download all files from bought courses and capture lectur
 + Run OBS in portable mode.
 + Run [capture.py](Shkolkovo%20downloader/capture.py) script.
 + Set window and audio capture in OBS. <br>
-### Files download
+### Files downloading
 + Make sure you have only one profile in chrome and enter Shkolkovo account.
 + Start [drive.py](Shkolkovo%20downloader/drive.py) script.
 

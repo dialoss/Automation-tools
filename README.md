@@ -12,7 +12,7 @@ I use Selenium webdriver, BeautifulSoup and requests modules in every project.
 Steam account and mail box creation using [SMS service](https://5sim.net/) API for getting verification codes. Automatically adding a Steam Desktop Authentication. User have to solve captcha.
 
 ## Puzzle game solver
-First plan was to detect numbers in grid by using Tesseract Python, but it wasn't good at recognising digits in a low resolution image, so I decided to load just a color pallete, because puzzles made from it are easy to distinguish. The solver was written for abusing a GC.skins app that was giving big amount of coins for completing this game. With paid subscription I was able to load my own "puzzles". I used Nox player to run the game on PC.
+First plan was to detect numbers in grid by using Python Tesseract, but it wasn't good at recognising puzzles in a low resolution image, so I decided to load just a color pallete, because puzzles made from it are easy to distinguish. The solver was written for abusing a GC.skins app that was giving big amount of coins for completing this game. With paid subscription I was able to load my own "puzzles". I used Nox player to run the game on PC.
 
 ## Shkolkovo downloader
 The program is able to download all files from bought courses and capture lectures with OBS.

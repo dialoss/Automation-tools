@@ -1,5 +1,5 @@
 # Introduction
-I've done many scrapers and automation tools so far. There are the most interesting and useful (all these projects are old, so the code may be dirty):
+I've done many scrapers and automation tools so far. There are the most interesting and useful (some projects are old, so the code might be messy):
 + Steam/mail account registrator
 + Puzzle game solver
 + Shkolkovo video/files downloader
